@@ -1,0 +1,5 @@
+// Jupyter Checkpoints
+.ipynb_checkpoints
+
+// Model Results
+results.xlsx
