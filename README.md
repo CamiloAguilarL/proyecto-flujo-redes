@@ -55,10 +55,6 @@ Para utilizar este notebook, simplemente clone el repositorio y ejecute el noteb
 
 Las contribuciones son bienvenidas. Si desea contribuir al proyecto, por favor haga un fork del repositorio y envíe un pull request con sus mejoras.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Vea el archivo `LICENSE` para más detalles.
-
 ## Contacto
 
 Para más información o consultas, por favor abra un issue en este repositorio.
